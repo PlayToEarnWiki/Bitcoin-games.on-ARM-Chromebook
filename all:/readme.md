@@ -7,5 +7,6 @@ https://play.google.com/store/apps/details?id=com.bitcoin.match.merge.token.win2
 https://play.google.com/store/apps/details?id=com.thndrgames.snake,
 https://play.google.com/store/apps/details?id=com.playday.bitcoinsolitaire,
 https://play.google.com/store/apps/details?id=mobi.blackbears.crypto,
+https://play.google.com/store/apps/details?id=com.playday.wordbreeze,
 
 ]
